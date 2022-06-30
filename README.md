@@ -6,7 +6,7 @@ A django practice project
 ### 2. Go inside the project folder and open cmd
 ### 3. Create a virtual environment and input these commands
 ```
-python install pipenv
+pip3 install pipenv
 pipenv install django
 ```
 ### 4. Activate the virtual environment
