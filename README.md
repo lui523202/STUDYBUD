@@ -6,11 +6,11 @@ A django practice project
 ### 2. Go inside the project folder and open cmd
 ### 3. Create a virtual environment and input these commands
 ```
-pip3 install pipenv
-pipenv install django
+python -m venv virtualenv
+virtualenv\Scripts\activate
 ```
-### 4. Activate the virtual environment
-`pipenv shell`
+### 4. Install Django
+`pip install django`
 ### 5. To activate the django project, input this command
 `python manage.py runserver`
 ### 6. Open the link provided by the terminal
